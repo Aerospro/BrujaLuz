@@ -1,2 +1,0 @@
-# BrujaLuz
-Vault of BrujaLuz
